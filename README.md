@@ -9,3 +9,6 @@ I would like to focus on the built environment and how we experience/move throug
 ### Course Description and Personal Objectives
 My objectives in this course are to learn how to code and expand upon my knowledge of GIS. I would also like to use this course to improve my skills in reasearch project design.
 <br> Through this course we will be exploring data science tools, getting a foundational understanding of Python and spatial data science. This course prepares us for challenges in urban data beyond off-the-shelf cartographic approaches. It looks at the various components of data’s journey—acquisition, exploration, modeling, and communication through visualization—and how it enables and advances our research from a data science perspective.
+
+
+tweedle tedddedysydyf
